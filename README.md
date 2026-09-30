@@ -2,6 +2,4 @@
 
 Notes from a BTech student who builds things.
 
-Blog:
-
-[Read posts](https://uppadadhiraj.github.io/blog/) &middot; [About me](https://uppadadhiraj.github.io/about/)
+[Blog](https://uppadadhiraj.github.io/)
